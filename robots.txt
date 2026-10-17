@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://joliben.github.io/joliben-website/sitemap.xml
