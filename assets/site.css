@@ -86,3 +86,35 @@ h1{font-weight:750}h2{font-weight:740}h3{font-weight:720}
 .legal-text address{font-style:normal;line-height:1.9;color:var(--ink)}
 .legal-text section{border-top:1px solid var(--line);padding-top:12px;margin-top:27px}
 @media(max-width:740px){.contact-email-card{padding:27px}.contact-email-action{width:100%}}
+
+/* JOLIBEN film integration - preview 001: isolated components, no change to existing page logic */
+.quick-orientation .quick-copy{align-self:center}
+.quick-orientation .trailer-showcase{align-self:center;min-width:0;margin:0}
+.quick-orientation .quick-grid{grid-column:1/-1;grid-template-columns:repeat(4,minmax(0,1fr));margin-top:5px}
+.trailer-quick-actions{display:flex;flex-wrap:wrap;align-items:center;gap:16px;margin-top:18px}
+.trailer-quick-actions .btn{padding:10px 15px}
+.trailer-film-frame{position:relative;isolation:isolate;border-radius:20px;overflow:hidden;background:#040d1d;border:1px solid rgba(125,173,255,.28);box-shadow:0 22px 55px rgba(15,48,108,.22)}
+.trailer-film-frame:before{content:"";position:absolute;inset:-2px;border-radius:20px;border:1px solid rgba(98,177,255,.12);pointer-events:none;z-index:2}
+.trailer-film{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;background:#071425}
+.trailer-play-overlay{position:absolute;z-index:3;top:48%;left:50%;transform:translate(-50%,-50%);border:1px solid rgba(210,234,255,.42);border-radius:20px;padding:12px 21px;display:flex;gap:12px;align-items:center;color:#fff;background:rgba(11,30,61,.82);font-weight:800;font-size:14px;letter-spacing:.01em;box-shadow:0 15px 48px rgba(0,0,0,.42);backdrop-filter:blur(10px)}
+.trailer-play-overlay:hover{background:rgba(37,84,165,.94)}
+.trailer-play-symbol{display:grid;place-items:center;height:42px;width:42px;border-radius:50%;background:#3875ea;color:#fff;font-size:16px}
+.trailer-play-overlay[hidden]{display:none}
+.trailer-film-badge{position:absolute;left:14px;top:12px;pointer-events:none;font-size:10px;font-weight:750;letter-spacing:.1em;color:#dceaff;background:rgba(9,21,43,.72);padding:7px 10px;border-radius:6px}
+.trailer-caption{display:flex;gap:9px;flex-direction:column;padding:13px 5px 0;font-size:12px}
+.trailer-caption strong{display:block;color:var(--ink);font-size:13px;letter-spacing:.04em}
+.trailer-caption small{display:block;color:var(--mute);font-size:11px;margin-top:2px}
+.trailer-visual-hint{font-size:11px;color:var(--mute)}
+.cinema-visual-stack{display:grid;gap:16px;min-width:0}
+.cinema-still{margin:0;overflow:hidden;border-radius:24px;border:1px solid var(--line);background:var(--surface);box-shadow:var(--shadow)}
+.cinema-still img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.cinema-still figcaption{padding:10px 16px 12px;font-size:11px;color:var(--mute);line-height:1.5}
+@media(max-width:1100px){.quick-orientation{gap:25px}.quick-orientation .quick-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:940px){.quick-orientation .trailer-showcase,.quick-orientation .quick-grid{grid-column:auto}.quick-orientation .quick-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.trailer-quick-actions{gap:12px}}
+@media(max-width:700px){.trailer-play-overlay{padding:9px 13px;font-size:12px;gap:9px}.trailer-play-symbol{width:33px;height:33px}.trailer-film-badge{font-size:9px;left:8px;top:8px}.cinema-still{border-radius:17px}}
+@media(prefers-reduced-motion:reduce){.trailer-play-overlay{transition:none}}
+
+/* Silent, decorative hero loop; starts only in view and not with reduced motion. */
+.orbit-ambient{position:absolute;z-index:0;inset:0;pointer-events:none;opacity:.38;mask-image:radial-gradient(ellipse 62% 63% at center,#000 30%,transparent 95%);-webkit-mask-image:radial-gradient(ellipse 62% 63% at center,#000 30%,transparent 95%)}
+.orbit-ambient video{width:100%;height:100%;object-fit:cover;filter:saturate(1.04) contrast(1.07)}
+@media(prefers-reduced-motion:reduce){.orbit-ambient{display:none}}
