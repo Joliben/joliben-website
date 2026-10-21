@@ -23,3 +23,13 @@ die Website-Fassung enthält ergänzende Navigation und Verlinkungen.
 
 Keine Live-KI-Aufrufe. Keine echte Kanzlei- oder Commerce-Anwendung.
 Die menschliche Abnahme dieser Website-Integration steht noch aus.
+
+## Überarbeitete Navigation
+
+Die Hauptnavigation ist auf allen Seiten identisch. Unter „Produktvisionen“
+öffnet ein per Klick, Tastatur oder Touch bedienbares Untermenü die drei Labs
+oder die gemeinsame Übersicht. Die jeweils aktuelle Produktseite ist markiert.
+Die Sprunglinks eines Labs (z. B. Rollen und Falllabor) stehen in einer eigenen,
+schmalen Zeile unter der Hauptnavigation. Mobil bleibt diese Zeile horizontal
+bedienbar; die vollständige Hauptnavigation öffnet sich über den Menüknopf.
+Die drei Vorschaukarten auf der Startseite und die Demo-Inhalte sind unverändert.
