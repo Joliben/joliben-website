@@ -20,11 +20,21 @@ Selected planning, task-creation and interface workflows have been implemented a
 | Public agent experience | An interactive explanatory simulation is available in the presentation website | No live model calls or connection to the private system |
 | Brain & Learn | Controlled knowledge import, retrieval and feedback are being developed | An integrated learning capability has not yet been demonstrated |
 
-## A concrete development example
+## Two case studies
+
+### Case study 01: Controlled development
 
 Two new checks first failed against the existing behaviour. After a focused correction, the relevant checks passed and a broader selection of 16 regression tests passed. The change was reviewed and merged following human approval. These figures refer to that specific reported test scope, not the full repository suite or an independent certification. This publication summarises an existing development record; it is not a fresh test run.
 
 [Read the case study in German](docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md)
+
+### Case study 02: From a request to a traceable task
+
+A documented internal case from 19 October 2026 follows a review request through an AI-generated plan, deliberate project selection and explicit task creation. The original plan remained traceable at the task. The subsequent read-only investigation and completed findings report were still outside the demonstrated workflow.
+
+The case shows both an implemented transition and a concrete next product requirement: clarify the type of work, expected result and acceptance criteria while preserving the original source.
+
+[Read case study 02 in German](docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md) · [Designed PDF in German](docs/JOLIBEN_Fallstudie_02_Vom_Wunsch_zur_Aufgabe.pdf)
 
 ## My role
 
