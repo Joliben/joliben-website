@@ -1,5 +1,7 @@
 # Fallstudie 02: Vom Wunsch zur nachvollziehbaren Aufgabe
 
+[Deutsch](FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md) · [English](FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.en.md)
+
 **JOLIBEN · Thiemo Gerhardt, Initiator & Product Owner**  
 **Dokumentierter Fall: 19.10.2026 · Ausarbeitung: 22.10.2026**
 
