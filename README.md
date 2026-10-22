@@ -46,7 +46,7 @@ Die Grafik beschreibt den angestrebten Zusammenhang. Die beiden erprobten Teilwe
 
 [Entwicklungsstand im Detail](docs/ENTWICKLUNGSSTAND.md) · [Prozessgrafik als SVG](assets/portfolio/joliben-process.svg)
 
-## Zwei konkrete Arbeitsproben
+## Drei konkrete Arbeitsproben
 
 ### Fallstudie 01: Kontrollierte Entwicklung
 
@@ -54,7 +54,7 @@ Die Grafik beschreibt den angestrebten Zusammenhang. Die beiden erprobten Teilwe
 
 Die Zahlen beschreiben genau diesen dokumentierten Prüfumfang. Sie stehen weder für die vollständige Testsuite noch für eine unabhängige Produktzertifizierung. Die Veröffentlichung ist eine Zusammenfassung des bestehenden Projektberichts, kein neuer Testlauf.
 
-[Zur Fallstudie: kontrollierte Entwicklung](docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md)
+[Zur Fallstudie: kontrollierte Entwicklung](docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md) · [Gestaltete PDF](docs/JOLIBEN_Fallstudie_01_Kontrollierte_Entwicklung.pdf)
 
 ### Fallstudie 02: Vom Wunsch zur nachvollziehbaren Aufgabe
 
@@ -62,6 +62,14 @@ Ein interner Prüfwunsch führte über einen KI-Plan und eine bewusste Projektwa
 
 [Fallstudie lesen](docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md) · [Gestaltete PDF](docs/JOLIBEN_Fallstudie_02_Vom_Wunsch_zur_Aufgabe.pdf)
 
+
+### Fallstudie 03: Die kaputte Inbox
+
+Die Aufgabenübersicht war mit HTTP 500 ausgefallen. Ein erster Reparaturkandidat mit 338 bestandenen ausgewählten Tests wurde dennoch verworfen: Er hätte globale Konflikte unbelegt einzelnen Aufgaben zugeschrieben. Die spätere, begrenzte Anzeigereparatur dokumentierte 344 bestandene ausgewählte Tests, 13 isolierte HTTP-Prüfungen und HTTP 200 über beide Zugriffswege. Die spätere Browserbestätigung ist als Nutzerbestätigung eingeordnet.
+
+Die strengen Start- und Freigabeprüfungen blieben unverändert. Der globale Historienkonflikt war damit nicht behoben und blieb im dokumentierten Stand vom 20.10.2026 offen. Die Testzahlen beschreiben unterschiedliche berichtete Prüfumfänge; sie werden nicht addiert und stehen nicht für die vollständige Testsuite.
+
+[Fallstudie lesen](docs/FALLSTUDIE_03_DIE_KAPUTTE_INBOX.md) · [Gestaltete PDF](docs/JOLIBEN_Fallstudie_03_Die_kaputte_Inbox.pdf)
 
 ## Mein Beitrag als Initiator und Product Owner
 
@@ -77,6 +85,19 @@ Ich verbinde IT-Hintergrund und unternehmerische Erfahrung mit praktischer KI-Pr
 
 [Mehr zu meiner Rolle](docs/THIEMO_GERHARDT.md) · [Ausgewählte Arbeiten auf der Website](https://joliben.github.io/joliben-website/arbeiten.html)
 
+## Dokumente und Downloads in beiden Sprachen
+
+| Arbeitsprobe | Deutsch | English |
+| --- | --- | --- |
+| Projektprofil | [Lesen](docs/PROJEKTPROFIL.md) · [PDF](docs/JOLIBEN_Projektprofil_Thiemo_Gerhardt.pdf) | [Read](docs/PROJEKTPROFIL.en.md) · [PDF](docs/JOLIBEN_Projektprofil_Thiemo_Gerhardt_EN.pdf) |
+| Fallstudie 01: Kontrollierte Entwicklung | [Lesen](docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md) · [PDF](docs/JOLIBEN_Fallstudie_01_Kontrollierte_Entwicklung.pdf) | [Read](docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.en.md) · [PDF](docs/JOLIBEN_Fallstudie_01_Kontrollierte_Entwicklung_EN.pdf) |
+| Fallstudie 02: Vom Wunsch zur Aufgabe | [Lesen](docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md) · [PDF](docs/JOLIBEN_Fallstudie_02_Vom_Wunsch_zur_Aufgabe.pdf) | [Read](docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.en.md) · [PDF](docs/JOLIBEN_Fallstudie_02_Vom_Wunsch_zur_Aufgabe_EN.pdf) |
+| Fallstudie 03: Die kaputte Inbox | [Lesen](docs/FALLSTUDIE_03_DIE_KAPUTTE_INBOX.md) · [PDF](docs/JOLIBEN_Fallstudie_03_Die_kaputte_Inbox.pdf) | [Read](docs/FALLSTUDIE_03_DIE_KAPUTTE_INBOX.en.md) · [PDF](docs/JOLIBEN_Fallstudie_03_Die_kaputte_Inbox_EN.pdf) |
+| Rolle und Kompetenzen | [Lesen](docs/THIEMO_GERHARDT.md) | [Read](docs/THIEMO_GERHARDT.en.md) |
+| Entwicklungsstand | [Lesen](docs/ENTWICKLUNGSSTAND.md) | [Read](docs/ENTWICKLUNGSSTAND.en.md) |
+
+Die vier Portfoliografiken liegen in [assets/portfolio](assets/portfolio) jeweils als deutsche und englische PNG- und SVG-Fassung vor. Englische Dateien tragen `.en` im Dateinamen. Hinweise zur eigenständigen Vorschau: [Deutsch](VORSCHAU.md) · [English](VORSCHAU.en.md).
+
 ## Erkunden und Kontakt
 
 - [Website und Projektüberblick](https://joliben.github.io/joliben-website/)
@@ -88,4 +109,4 @@ Ich verbinde IT-Hintergrund und unternehmerische Erfahrung mit praktischer KI-Pr
 
 Die Präsentationswebsite verwendet statisches HTML, CSS und JavaScript. Die hier ergänzten Grafiken und Dokumente stellen keine Verbindung zum privaten JOLIBEN-System her. Informationen zum Websitebetrieb stehen in [Impressum](https://joliben.github.io/joliben-website/impressum.html) und [Datenschutz](https://joliben.github.io/joliben-website/datenschutz.html).
 
-**Redaktioneller Stand: 22.10.2026.** Fachliche Aussagen beziehen sich auf dokumentierte Projektstände vom 15. bis 20.10.2026. Der Core bleibt privat; dieses Präsentationspaket erteilt keine Open-Source-Freigabe des Anwendungscodes.
+**Redaktioneller Stand der Arbeitsproben: 22.10.2026 · Zweisprachige Ausgabe: 23.10.2026.** Fachliche Aussagen beziehen sich auf dokumentierte Projektstände vom 15. bis 20.10.2026. Die Übersetzungen ändern diese Nachweise und ihren Umfang nicht. Der Core bleibt privat; dieses Präsentationspaket erteilt keine Open-Source-Freigabe des Anwendungscodes.
