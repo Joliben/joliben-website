@@ -1,5 +1,7 @@
 # Thiemo Gerhardt
 
+**Deutsch** · [English](THIEMO_GERHARDT.en.md)
+
 **Initiator & Product Owner von JOLIBEN · KI-Produktentwicklung und Digitalisierung · Raum Dresden**
 
 Mich interessiert, wie KI im Arbeitsalltag zu verständlicher und überprüfbarer Unterstützung wird. Bei JOLIBEN verbinde ich meinen IT-Hintergrund und unternehmerische Erfahrung mit praktischer Produktarbeit: von der Problemklärung über begrenzte Umsetzungsschritte bis zur Prüfung und Weiterentwicklung.

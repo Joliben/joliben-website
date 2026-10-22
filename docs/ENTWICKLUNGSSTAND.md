@@ -1,5 +1,7 @@
 # Dokumentierter Entwicklungsstand
 
+**Deutsch** · [English](ENTWICKLUNGSSTAND.en.md)
+
 **Redaktioneller Stand: 22.10.2026 · fachliche Grundlage: 15.-20.10.2026**
 
 Diese Übersicht unterscheidet umgesetzte Teilfunktionen, begrenzte Erprobung, eine erklärende Simulation und weitere Entwicklung. Sie fasst Projektberichte zusammen. Historische Testzahlen und Browserbestätigungen bleiben ihrem jeweiligen Stand zugeordnet.

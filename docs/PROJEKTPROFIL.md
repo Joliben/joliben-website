@@ -1,5 +1,7 @@
 # JOLIBEN als Projektarbeitsprobe
 
+**Deutsch** · [English](PROJEKTPROFIL.en.md)
+
 **Thiemo Gerhardt · Initiator & Product Owner · Raum Dresden**
 
 JOLIBEN ist mein eigenständiges KI- und Produktentwicklungsprojekt. Ich entwickle damit die Frage weiter, wie sich KI-Unterstützung in nachvollziehbare Arbeitsabläufe übersetzen lässt: mit verständlichen Aufträgen, überprüfbaren Ergebnissen und bewussten menschlichen Entscheidungen.
