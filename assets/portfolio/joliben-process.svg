@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+<title id="title">JOLIBEN - Prozess und Entwicklungsstand</title><desc id="desc">Das Zielbild verbindet Planung, kontrollierte Entwicklung und menschliche Übernahme. Der Planungsweg und ein separater Entwicklungsweg sind in begrenzten Fällen erprobt. Der Wissensrücklauf ist in Arbeit. Die Gesamtstrecke ist nicht als durchgängige Autonomie nachgewiesen.</desc>
+<rect x="0" y="0" width="1200" height="860" rx="0" fill="#f4f7fb" stroke="none" stroke-width="1.5"/>
+<text x="44" y="62" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#315fe8">JOLIBEN / PROZESS UND ENTWICKLUNGSSTAND</text>
+<text x="44" y="119" font-family="DejaVu Sans,Arial,sans-serif" font-size="37" font-weight="700" fill="#17243b">Vom Wunsch zur bewussten Übernahme.</text>
+<text x="44" y="158" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#55657d">Zielbild mit erprobten Teilwegen und offenem Wissensrücklauf.</text>
+<rect x="44" y="201" width="344" height="391" rx="20" fill="#ffffff" stroke="#dce5f1" stroke-width="1.5"/>
+<text x="67" y="242" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8">01</text>
+<text x="67" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">Planen und</text>
+<text x="67" y="320" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">beauftragen</text>
+<rect x="64" y="338" width="304" height="38" rx="10" fill="#e7f4f0" stroke="none" stroke-width="1.5"/>
+<text x="76" y="364" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#086c60">Nutzerfall erprobt</text>
+<text x="68" y="414" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Ziel und Kontext</text>
+<text x="68" y="441" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Auftrag verständlich machen</text>
+<text x="68" y="480" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Daten und Kosten</text>
+<text x="68" y="507" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Vor dem KI-Schritt prüfen</text>
+<text x="68" y="546" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Plan und Aufgabe</text>
+<text x="68" y="573" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Mensch prüft und entscheidet</text>
+<rect x="428" y="201" width="344" height="391" rx="20" fill="#ffffff" stroke="#dce5f1" stroke-width="1.5"/>
+<text x="451" y="242" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8">02</text>
+<text x="451" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">Begrenzt umsetzen</text>
+<text x="451" y="320" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">und prüfen</text>
+<rect x="448" y="338" width="304" height="38" rx="10" fill="#e7f4f0" stroke="none" stroke-width="1.5"/>
+<text x="460" y="364" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#086c60">Separater Pilot erprobt</text>
+<text x="452" y="414" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Arbeitsumfang</text>
+<text x="452" y="441" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Kriterien bewusst festlegen</text>
+<text x="452" y="480" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">KI-Kollaboration</text>
+<text x="452" y="507" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Begrenzte Umsetzung begleiten</text>
+<text x="452" y="546" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Tests und Review</text>
+<text x="452" y="573" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Ergebnis und Nachweise prüfen</text>
+<rect x="812" y="201" width="344" height="391" rx="20" fill="#ffffff" stroke="#dce5f1" stroke-width="1.5"/>
+<text x="835" y="242" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8">03</text>
+<text x="835" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">Bewusst</text>
+<text x="835" y="320" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">übernehmen</text>
+<rect x="832" y="338" width="304" height="38" rx="10" fill="#e7f4f0" stroke="none" stroke-width="1.5"/>
+<text x="844" y="364" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#086c60">Merge im Pilot erprobt</text>
+<text x="836" y="414" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Freigabe</text>
+<text x="836" y="441" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Mensch entscheidet über Merge</text>
+<text x="836" y="480" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Integration</text>
+<text x="836" y="507" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Geprüften Stand übernehmen</text>
+<text x="836" y="546" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b">Produktivrollout</text>
+<text x="836" y="573" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d">Als eigenen Schritt prüfen</text>
+<line x1="390" y1="395" x2="424" y2="395" stroke="#315fe8" stroke-width="3"/>
+<line x1="424" y1="395" x2="414" y2="388" stroke="#315fe8" stroke-width="3"/>
+<line x1="424" y1="395" x2="414" y2="402" stroke="#315fe8" stroke-width="3"/>
+<line x1="774" y1="395" x2="808" y2="395" stroke="#315fe8" stroke-width="3"/>
+<line x1="808" y1="395" x2="798" y2="388" stroke="#315fe8" stroke-width="3"/>
+<line x1="808" y1="395" x2="798" y2="402" stroke="#315fe8" stroke-width="3"/>
+<rect x="44" y="620" width="1112" height="137" rx="18" fill="#fffaf0" stroke="#ddc98b" stroke-width="1.5" stroke-dasharray="7 5"/>
+<text x="67" y="660" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#80560d">WISSEN KONTROLLIERT ZURÜCKFÜHREN</text>
+<text x="67" y="698" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" fill="#17243b">Projektwissen aktualisieren, Ergebnisse zuordnen und später nachvollziehbar abrufen.</text>
+<text x="67" y="735" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#80560d">In Arbeit: Import, Abruf und wirksamer Lernkreislauf sind noch nicht nachgewiesen.</text>
+<line x1="600" y1="596" x2="600" y2="614" stroke="#80560d" stroke-width="3" stroke-dasharray="7 5"/>
+<line x1="600" y1="614" x2="593" y2="604" stroke="#80560d" stroke-width="3"/>
+<line x1="600" y1="614" x2="607" y2="604" stroke="#80560d" stroke-width="3"/>
+<text x="44" y="799" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#17243b">Die Teilwege sind noch keine durchgängig verbundene autonome Gesamtstrecke.</text>
+<text x="44" y="834" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" fill="#55657d">Projektstände 15.-20.10.2026 / Redaktion 22.10.2026 / Öffentliche Prinzipdarstellung</text>
+</svg>
