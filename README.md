@@ -46,13 +46,22 @@ Die Grafik beschreibt den angestrebten Zusammenhang. Die beiden erprobten Teilwe
 
 [Entwicklungsstand im Detail](docs/ENTWICKLUNGSSTAND.md) · [Prozessgrafik als SVG](assets/portfolio/joliben-process.svg)
 
-## Eine konkrete Arbeitsprobe
+## Zwei konkrete Arbeitsproben
+
+### Fallstudie 01: Kontrollierte Entwicklung
 
 **Ein begrenzter Entwicklungsauftrag wurde von der Fehlerreproduktion bis zur geprüften Integration begleitet.** Zwei neue Prüfungen zeigten das gewünschte Verhalten zunächst als Fehler. Nach der gezielten Korrektur waren die zugehörigen Prüfungen erfolgreich; anschließend bestanden 16 ausgewählte Regressionstests. Die Änderung wurde nach Review und menschlicher Freigabe übernommen.
 
 Die Zahlen beschreiben genau diesen dokumentierten Prüfumfang. Sie stehen weder für die vollständige Testsuite noch für eine unabhängige Produktzertifizierung. Die Veröffentlichung ist eine Zusammenfassung des bestehenden Projektberichts, kein neuer Testlauf.
 
 [Zur Fallstudie: kontrollierte Entwicklung](docs/FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.md)
+
+### Fallstudie 02: Vom Wunsch zur nachvollziehbaren Aufgabe
+
+Ein interner Prüfwunsch führte über einen KI-Plan und eine bewusste Projektwahl zu einer tatsächlich angelegten Aufgabe. Die Originalquelle blieb nachvollziehbar. Der Fall zeigt zugleich die nächste Produktanforderung: Die anschließende rein lesende Bearbeitung und ihr Befundbericht waren noch nicht durchgängig abgebildet.
+
+[Fallstudie lesen](docs/FALLSTUDIE_02_VOM_WUNSCH_ZUR_AUFGABE.md) · [Gestaltete PDF](docs/JOLIBEN_Fallstudie_02_Vom_Wunsch_zur_Aufgabe.pdf)
+
 
 ## Mein Beitrag als Initiator und Product Owner
 
