@@ -1,5 +1,7 @@
 # Fallstudie: einen KI-unterstützten Entwicklungsauftrag kontrolliert übernehmen
 
+**Deutsch** · [English](FALLBEISPIEL_KONTROLLIERTE_ENTWICKLUNG.en.md)
+
 **Dokumentierter Projektstand: 20.10.2026 · öffentliche Zusammenfassung: 22.10.2026**
 
 ## Die Aufgabe
@@ -36,4 +38,4 @@ Das Ergebnis ist ein konkretes Beispiel für die Verbindung von KI-Unterstützun
 
 Der Fall liefert einen begrenzten Nachweis. Die Übertragung auf weitere Aufgaben und die vollständige Verbindung aller Teilwege bleiben Entwicklungsarbeit.
 
-[Projektüberblick](../README.md) · [Meine Rolle](THIEMO_GERHARDT.md)
+[Fallstudie als PDF](JOLIBEN_Fallstudie_01_Kontrollierte_Entwicklung.pdf) · [Projektüberblick](../README.md) · [Meine Rolle](THIEMO_GERHARDT.md)
