@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">JOLIBEN – Process and development status</title><desc id="desc">The target process connects planning, controlled development and human adoption. The planning workflow and a separate development workflow have been tested in limited cases. The knowledge feedback loop is in progress. End-to-end autonomy has not been demonstrated for the overall process.</desc>
+<rect x="0" y="0" width="1200" height="860" rx="0" fill="#f4f7fb" stroke="none" stroke-width="1.5"/>
+<text x="44" y="62" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#315fe8" id="en-text-02">JOLIBEN / PROCESS AND DEVELOPMENT STATUS</text>
+<text x="44" y="119" font-family="DejaVu Sans,Arial,sans-serif" font-size="37" font-weight="700" fill="#17243b" id="en-text-03">From a request to deliberate adoption.</text>
+<text x="44" y="158" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#55657d" id="en-text-04">A target process with tested workflows and an open knowledge feedback loop.</text>
+<rect x="44" y="201" width="344" height="391" rx="20" fill="#ffffff" stroke="#dce5f1" stroke-width="1.5"/>
+<text x="67" y="242" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8" id="en-text-05">01</text>
+<text x="67" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b" id="en-text-06">Plan and</text>
+<text x="67" y="320" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b" id="en-text-07">assign work</text>
+<rect x="64" y="338" width="304" height="38" rx="10" fill="#e7f4f0" stroke="none" stroke-width="1.5"/>
+<text x="76" y="364" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#086c60" id="en-text-08">Tested in a user case</text>
+<text x="68" y="414" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-09">Goal and context</text>
+<text x="68" y="441" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-10">Make the task clear</text>
+<text x="68" y="480" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-11">Data and costs</text>
+<text x="68" y="507" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-12">Check before the AI step</text>
+<text x="68" y="546" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-13">Plan and task</text>
+<text x="68" y="573" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-14">A human reviews and decides</text>
+<rect x="428" y="201" width="344" height="391" rx="20" fill="#ffffff" stroke="#dce5f1" stroke-width="1.5"/>
+<text x="451" y="242" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8" id="en-text-15">02</text>
+<text x="451" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b" id="en-text-16">Implement within</text>
+<text x="451" y="320" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b" id="en-text-17">scope and test</text>
+<rect x="448" y="338" width="304" height="38" rx="10" fill="#e7f4f0" stroke="none" stroke-width="1.5"/>
+<text x="460" y="364" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#086c60" id="en-text-18">Separate pilot tested</text>
+<text x="452" y="414" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-19">Scope of work</text>
+<text x="452" y="441" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-20">Define criteria deliberately</text>
+<text x="452" y="480" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-21">AI collaboration</text>
+<text x="452" y="507" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-22">Guide scoped implementation</text>
+<text x="452" y="546" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-23">Tests and review</text>
+<text x="452" y="573" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-24">Review the result and evidence</text>
+<rect x="812" y="201" width="344" height="391" rx="20" fill="#ffffff" stroke="#dce5f1" stroke-width="1.5"/>
+<text x="835" y="242" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8" id="en-text-25">03</text>
+<text x="835" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b" id="en-text-26">Adopt</text>
+<text x="835" y="320" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b" id="en-text-27">deliberately</text>
+<rect x="832" y="338" width="304" height="38" rx="10" fill="#e7f4f0" stroke="none" stroke-width="1.5"/>
+<text x="844" y="364" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#086c60" id="en-text-28">Merge tested in the pilot</text>
+<text x="836" y="414" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-29">Approval</text>
+<text x="836" y="441" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-30">A human decides on the merge</text>
+<text x="836" y="480" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-31">Integration</text>
+<text x="836" y="507" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-32">Adopt the reviewed version</text>
+<text x="836" y="546" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17243b" id="en-text-33">Production rollout</text>
+<text x="836" y="573" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#55657d" id="en-text-34">Review as a separate step</text>
+<line x1="390" y1="395" x2="424" y2="395" stroke="#315fe8" stroke-width="3"/>
+<line x1="424" y1="395" x2="414" y2="388" stroke="#315fe8" stroke-width="3"/>
+<line x1="424" y1="395" x2="414" y2="402" stroke="#315fe8" stroke-width="3"/>
+<line x1="774" y1="395" x2="808" y2="395" stroke="#315fe8" stroke-width="3"/>
+<line x1="808" y1="395" x2="798" y2="388" stroke="#315fe8" stroke-width="3"/>
+<line x1="808" y1="395" x2="798" y2="402" stroke="#315fe8" stroke-width="3"/>
+<rect x="44" y="620" width="1112" height="137" rx="18" fill="#fffaf0" stroke="#ddc98b" stroke-width="1.5" stroke-dasharray="7 5"/>
+<text x="67" y="660" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#80560d" id="en-text-35">FEED KNOWLEDGE BACK WITH CONTROL</text>
+<text x="67" y="698" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" fill="#17243b" id="en-text-36">Update project knowledge, link results and retrieve them traceably later.</text>
+<text x="67" y="735" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#80560d" id="en-text-37">In progress: import, retrieval and an effective learning loop have not yet been demonstrated.</text>
+<line x1="600" y1="596" x2="600" y2="614" stroke="#80560d" stroke-width="3" stroke-dasharray="7 5"/>
+<line x1="600" y1="614" x2="593" y2="604" stroke="#80560d" stroke-width="3"/>
+<line x1="600" y1="614" x2="607" y2="604" stroke="#80560d" stroke-width="3"/>
+<text x="44" y="799" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#17243b" id="en-text-38">The workflows do not yet form a connected, autonomous end-to-end process.</text>
+<text x="44" y="834" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" fill="#55657d" id="en-text-39">Project status: 15–20 Oct 2026 / Edited: 22 Oct 2026 / Public conceptual illustration</text>
+</svg>

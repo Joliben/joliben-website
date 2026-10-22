@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1190" viewBox="0 0 1600 1190" role="img" aria-labelledby="title desc">
+<title id="title">Fallstudie 03: Eine begrenzte Inbox-Reparatur</title>
+<desc id="desc">Der historische Entscheidungsweg trennt eine verworfene globale Warnungszuordnung von der übernommenen lesenden Anzeigereparatur. Ausgewählte Tests und damalige HTTP- sowie Nutzerbestätigung belegen den begrenzten Erfolg. Die globale Historie blieb offen; strenge Startprüfungen wurden nicht geändert.</desc>
+<rect x="0" y="0" width="1600" height="1190" rx="0" fill="#f4f7fb" stroke="none" stroke-width="2"/>
+<text x="72" y="72" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#315fe8">JOLIBEN / FALLSTUDIE 03</text>
+<text x="72" y="135" font-family="DejaVu Sans,Arial,sans-serif" font-size="44" font-weight="700" fill="#17243b">Genauer hinsehen. Gezielter reparieren.</text>
+<text x="72" y="181" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" fill="#53637a">Historischer Inbox-Fall vom 15.10.2026 / redaktionelle Darstellung</text>
+<rect x="292" y="223" width="1016" height="130" rx="18" fill="#ffffff" stroke="#dce5f1" stroke-width="2"/>
+<text x="324" y="268" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#315fe8">INBOX NICHT ERREICHBAR: HTTP 500</text>
+<text x="324" y="310" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400" fill="#17243b">Die Diagnose führt zu einem globalen Historienkonflikt.</text>
+<line x1="800" y1="362" x2="800" y2="400" stroke="#315fe8" stroke-width="3"/>
+<line x1="800" y1="400" x2="792" y2="388" stroke="#315fe8" stroke-width="3"/>
+<line x1="800" y1="400" x2="808" y2="388" stroke="#315fe8" stroke-width="3"/>
+<rect x="292" y="411" width="1016" height="103" rx="18" fill="#edf2ff" stroke="none" stroke-width="2"/>
+<text x="324" y="451" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#315fe8">DIE FACHLICHE FRAGE</text>
+<text x="324" y="488" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">Welchen Zustand darf die einzelne Aufgabe anzeigen?</text>
+<line x1="800" y1="523" x2="800" y2="547" stroke="#315fe8" stroke-width="3"/>
+<line x1="416" y1="547" x2="1184" y2="547" stroke="#315fe8" stroke-width="3"/>
+<line x1="416" y1="547" x2="416" y2="575" stroke="#9c343a" stroke-width="3"/>
+<line x1="416" y1="575" x2="408" y2="563" stroke="#9c343a" stroke-width="3"/>
+<line x1="416" y1="575" x2="424" y2="563" stroke="#9c343a" stroke-width="3"/>
+<line x1="1184" y1="547" x2="1184" y2="575" stroke="#086c60" stroke-width="3"/>
+<line x1="1184" y1="575" x2="1176" y2="563" stroke="#086c60" stroke-width="3"/>
+<line x1="1184" y1="575" x2="1192" y2="563" stroke="#086c60" stroke-width="3"/>
+<rect x="72" y="588" width="688" height="264" rx="18" fill="#fbebed" stroke="#e5c5c9" stroke-width="2"/>
+<text x="104" y="631" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#9c343a">ERSTER KANDIDAT: VERWORFEN</text>
+<text x="104" y="679" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">Globale Warnungen an Einzelaufgaben</text>
+<text x="104" y="721" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#17243b">338 ausgewählte Tests bestanden.</text>
+<text x="104" y="760" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#53637a">Die Zuordnung hätte mehr behauptet,</text>
+<text x="104" y="795" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#53637a">als für diese Aufgaben belegt war.</text>
+<rect x="840" y="588" width="688" height="264" rx="18" fill="#e6f4ef" stroke="#beddd2" stroke-width="2"/>
+<text x="872" y="631" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#086c60">SPÄTERE REPARATUR: ÜBERNOMMEN</text>
+<text x="872" y="679" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#17243b">Lesende Anzeige gezielt reparieren</text>
+<text x="872" y="721" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#17243b">Globalen Hinweis gesondert sichtbar halten.</text>
+<text x="872" y="760" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#53637a">Start- und Freigabeprüfungen unverändert.</text>
+<text x="872" y="795" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#53637a">Die globale Historie bleibt ein eigener Auftrag.</text>
+<line x1="1184" y1="860" x2="1184" y2="893" stroke="#086c60" stroke-width="3"/>
+<line x1="1184" y1="893" x2="1176" y2="881" stroke="#086c60" stroke-width="3"/>
+<line x1="1184" y1="893" x2="1192" y2="881" stroke="#086c60" stroke-width="3"/>
+<rect x="840" y="905" width="688" height="115" rx="18" fill="#ffffff" stroke="#dce5f1" stroke-width="2"/>
+<text x="872" y="948" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#086c60">344 ausgewählte Tests / 13 HTTP-Prüfungen</text>
+<text x="872" y="987" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" fill="#17243b">Inbox HTTP 200 auf beiden Wegen; Nutzer bestätigt.</text>
+<text x="104" y="931" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#53637a">Testzahlen beschreiben ihren Prüfumfang.</text>
+<text x="104" y="969" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#17243b">Die fachliche Bewertung bleibt nötig.</text>
+<rect x="72" y="1052" width="1456" height="87" rx="18" fill="#fff4dc" stroke="#ddc98b" stroke-width="2"/>
+<text x="104" y="1088" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#80560d">DIE GRENZE BLEIBT SICHTBAR</text>
+<text x="104" y="1120" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#17243b">Eine erreichbare Inbox behebt keinen globalen Historienkonflikt und erteilt keine Ausführungsfreigabe.</text>
+</svg>
