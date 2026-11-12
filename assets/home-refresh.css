@@ -63,7 +63,8 @@ body:not(.dark) .section-roadmap{border-block:0;background:linear-gradient(180de
 .paths-heading{display:block;max-width:760px;margin-bottom:32px}
 .paths-heading h2,.intro h2,.case-spotlight h2,.contact-block h2{font-size:clamp(30px,3.15vw,43px);letter-spacing:-.03em;line-height:1.18}
 .paths-heading h2{max-width:24ch;margin:14px 0 14px}
-.paths-heading h2 br{display:none}
+.paths-heading h2 br{display:initial}
+.path-icon{filter:grayscale(1)}
 .paths-heading p{max-width:62ch;font-size:16px;line-height:1.65;margin:0}
 .path-card{min-height:285px;padding:28px 31px}
 .path-content h3{font-size:clamp(22px,2vw,27px);letter-spacing:-.025em;line-height:1.2}
