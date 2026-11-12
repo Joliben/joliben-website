@@ -56,3 +56,32 @@ body:not(.dark) .case-spotlight{background:linear-gradient(180deg,var(--bg),#e6e
 body:not(.dark) .section-roadmap{border-block:0;background:linear-gradient(180deg,var(--bg),#eaf0f7 22%,#eaf0f7 78%,var(--bg))}
 @media(max-width:760px){.quick-orientation{margin-bottom:55px}}
 @media(prefers-reduced-motion:reduce){.lab-board-video{display:none}}
+
+/* A calmer, consistent reading hierarchy across the homepage. */
+.hero h1{font-size:clamp(42px,4.5vw,64px);letter-spacing:-.045em;line-height:1.1}
+.hero .lead{font-size:clamp(16px,1.3vw,18px);line-height:1.7}
+.paths-heading{display:block;max-width:760px;margin-bottom:32px}
+.paths-heading h2,.intro h2,.case-spotlight h2,.contact-block h2{font-size:clamp(30px,3.15vw,43px);letter-spacing:-.03em;line-height:1.18}
+.paths-heading h2{max-width:24ch;margin:14px 0 14px}
+.paths-heading h2 br{display:none}
+.paths-heading p{max-width:62ch;font-size:16px;line-height:1.65;margin:0}
+.path-card{min-height:285px;padding:28px 31px}
+.path-content h3{font-size:clamp(22px,2vw,27px);letter-spacing:-.025em;line-height:1.2}
+.path-content p,.vision-copy p,.card p,.milestone p{font-size:15px;line-height:1.65}
+.path-content p{max-width:48ch;margin-bottom:20px}
+.path-meta{font-size:11px;letter-spacing:.1em}
+.path-link,.vision-link,.card .card-footer{font-size:13px}
+.intro p{max-width:68ch;font-size:16px;line-height:1.7}
+.quick-copy h2{font-size:clamp(27px,2.5vw,35px);letter-spacing:-.03em;line-height:1.2}
+.quick-copy p{font-size:15px;line-height:1.65}
+.quick-stat small,.trailer-caption small{font-size:12px;line-height:1.5}
+.vision-copy h3,.card h3{font-size:clamp(21px,1.8vw,25px);letter-spacing:-.025em;line-height:1.25}
+.vision-copy h3{margin:14px 0}
+.vision-copy p{margin-bottom:24px}
+.process-item small,.roadmap-card p,.roadmap-side-note small{font-size:13px;line-height:1.6}
+.roadmap-description{font-size:13px;line-height:1.65}
+.roadmap-card h4{font-size:14px}
+.roadmap-description{min-height:0}
+:is(#joliben,#kiboraya,#person) h2{font-size:clamp(30px,3.15vw,43px)!important;letter-spacing:-.03em;line-height:1.18}
+@media(max-width:850px){.paths-heading p{margin-top:0}.path-card{min-height:260px}}
+@media(max-width:600px){.hero h1{font-size:clamp(39px,10vw,52px)}.path-card{min-height:245px;padding:24px}.paths-heading h2,.intro h2,.case-spotlight h2,.contact-block h2,:is(#joliben,#kiboraya,#person) h2{font-size:clamp(29px,7.5vw,36px)!important}}
